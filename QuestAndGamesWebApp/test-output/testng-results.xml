@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-30T16:21:04 IST" name="Default suite" finished-at="2026-03-30T16:21:55 IST" duration-ms="50477">
+    <groups>
+    </groups>
+    <test started-at="2026-03-30T16:21:04 IST" name="Default test" finished-at="2026-03-30T16:21:55 IST" duration-ms="50477">
+      <class name="ExtremeTrackRace.DigiXTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:ExtremeTrackRace.DigiXTest@477b4cdf]" started-at="2026-03-30T16:21:04 IST" name="setup" finished-at="2026-03-30T16:21:09 IST" duration-ms="4515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DigiX()[pri:1, instance:ExtremeTrackRace.DigiXTest@477b4cdf]" started-at="2026-03-30T16:21:09 IST" name="DigiX" finished-at="2026-03-30T16:21:55 IST" duration-ms="45742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DigiX -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ExtremeTrackRace.DigiXTest@477b4cdf]" started-at="2026-03-30T16:21:55 IST" name="tearDown" finished-at="2026-03-30T16:21:55 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ExtremeTrackRace.DigiXTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
